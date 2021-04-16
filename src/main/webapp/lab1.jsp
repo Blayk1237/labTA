@@ -22,7 +22,7 @@
             x += 5;
             x /= 5;
         %>
-        <p>30 divide by 10 equal to <%=x%></p>
+        <p>30 divide by 10 equals to <%=x%></p>
         
         <a href="index.jsp">Home</a>
         
