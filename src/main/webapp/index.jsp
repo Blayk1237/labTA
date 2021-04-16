@@ -9,9 +9,16 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>TALabs</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Laboratory work TA start page</h1>
+        <p>Its just a paragraph</p>
+        
+        <form action="lab1.jsp">
+            <input type="submit" value="Lab1">
+        </form>
+        
+        <p><a href="lab1.jsp">Alternative variant</a></p>
     </body>
 </html>
